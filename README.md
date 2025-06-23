@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Hammad Karim
 
-<!--
-**Hammad-karim/Hammad-karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student and an aspiring Cybersecurity Specialist. With a strong foundation in C/C++, Python, and Front-End Development, I love building projects that combine functionality with clean code. I'm currently exploring ethical hacking and bug bounty hunting, sharpening my skills to dive deep into the world of cybersecurity.
 
-Here are some ideas to get you started:
+As a Teaching Assistant for Digital Logic Design, I enjoy sharing knowledge and simplifying complex concepts. I've also worked on projects like a Scrabble game, a Car Parking System in Assembly, and  File download manager in C(operating System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- Programming: C/C++, Python, JavaScript
+- Web: HTML, CSS, Bootstrap
+- Tools: Git, VS Code, Linux, Assembly (NASM)
+- Interests: Cybersecurity, Ethical Hacking, Bug Bounties, Capture The Flag (CTF)
+
+### 📚 Currently Learning:
+- Advanced Python for cybersecurity
+- JavaScript for Web Exploits
+- Linux Privilege Escalation
+- Hack The Box & TryHackMe Labs
+
+### 📫 Let's connect!
+Feel free to check out my repositories, or reach out if you want to collaborate or just chat about tech and cybersecurity.
