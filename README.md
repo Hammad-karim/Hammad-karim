@@ -7,7 +7,7 @@ As a Teaching Assistant for Digital Logic Design, I enjoy sharing knowledge and 
 ### 💻 Tech Stack:
 - Programming: C/C++, Python, JavaScript
 - Web: HTML, CSS, Bootstrap
-- Tools: Git, VS Code, Linux, Assembly (NASM)
+- Tools: Git, VS Code, Linux, Assembly (MASM)
 - Interests: Cybersecurity, Ethical Hacking, Bug Bounties, Capture The Flag (CTF)
 
 ### 📚 Currently Learning:
