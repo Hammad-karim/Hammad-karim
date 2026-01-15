@@ -1,20 +1,58 @@
-## 👋 Hi there, I'm Hammad Karim
+# Hi, I'm Hammad Karim 👋
 
-I'm a passionate Computer Science student and an aspiring Cybersecurity Specialist. With a strong foundation in C/C++, Python, and Front-End Development, I love building projects that combine functionality with clean code. I'm currently exploring ethical hacking and bug bounty hunting, sharpening my skills to dive deep into the world of cybersecurity.
+**Computer Science Student | Cybersecurity Enthusiast | Teaching Assistant**
 
-As a Teaching Assistant for Digital Logic Design, I enjoy sharing knowledge and simplifying complex concepts. I've also worked on projects like a Scrabble game, a Car Parking System in Assembly, and  File download manager in C(operating System)
+I am a motivated Computer Science student with a strong foundation in programming, computer networks, and software engineering principles. I enjoy building structured, problem-oriented projects and continuously improving my technical skills. My primary area of interest is cybersecurity, where I am actively exploring ethical hacking, network security, and vulnerability analysis.
 
-### 💻 Tech Stack:
-- Programming: C/C++, Python, JavaScript
-- Web: HTML, CSS, Bootstrap
-- Tools: Git, VS Code, Linux, Assembly (MASM)
-- Interests: Cybersecurity, Ethical Hacking, Bug Bounties, Capture The Flag (CTF)
+Alongside my studies, I have worked as a Teaching Assistant for Digital Logic Design,Assembly Language(COAL) and Linear Algebra where I supported students in understanding core concepts and assisted in evaluating academic assessments. I value clean design, clear documentation, and practical learning through projects.
 
-### 📚 Currently Learning:
-- Advanced Python for cybersecurity
-- JavaScript for Web Exploits
-- Linux Privilege Escalation
-- Hack The Box & TryHackMe Labs
+---
 
-### 📫 Let's connect!
-Feel free to check out my repositories, or reach out if you want to collaborate or just chat about tech and cybersecurity.
+## 🔧 Technical Skills
+
+**Programming Languages:**  
+C, C++, Python, JavaScript, Assembly (MASM)
+
+**Computer Science Fundamentals:**  
+Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), Computer Networks, Operating Systems, Softwares Design
+
+**Web & Databases:**  
+HTML, CSS, SQL, MongoDB(Basics) Database Design
+
+**Tools & Platforms:**  
+Git & GitHub, Linux, VS Code, Cisco Packet Tracer
+
+**Cybersecurity Interests:**  
+Network Security Fundamentals, Ethical Hacking, Bug Bounty Concepts, Capture The Flag (CTF)
+
+---
+
+## 📌 Project Highlights
+
+- **Chat-Enabled Online Shopping Store** (Database & Computer Networks)  
+- **Stock Price Predictor** (Python – Intermediate)  
+- **Hostel Management System** (Software Design & Analysis)  
+- **Scrabble & Jumble Words Game** (C)  
+- **Bank Management System** (C++)  
+- **NFA Simulation** (JavaScript)
+
+Each project focuses on applying theoretical concepts to practical problem-solving with proper design and documentation.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python for cybersecurity applications  
+- Web security and JavaScript-based vulnerabilities  
+- Linux security and privilege escalation techniques  
+- Hands-on labs on Hack The Box and TryHackMe  
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories or reach out if you would like to collaborate on academic projects, discuss computer science concepts, or work on cybersecurity-related learning initiatives.
+
+---
+
+*Open to internships, learning opportunities, and collaborative projects.*
