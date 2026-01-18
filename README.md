@@ -1,58 +1,18 @@
-# Hi, I'm Hammad Karim 👋
+# 💫 About Me:
+Hi, I'm Hammad Karim 👋<br>Computer Science Student | Cybersecurity Enthusiast | Teaching Assistant<br>I am a motivated Computer Science student with a strong foundation in programming, computer networks, and software engineering principles. <br>I enjoy building structured, problem-oriented projects and continuously improving my technical skills. My primary area of interest is cybersecurity, where I am actively exploring ethical hacking, network security, and vulnerability analysis.<br>Alongside my studies, I have worked as a Teaching Assistant for Digital Logic Design, Assembly Language(COAL) and Linear Algebra where I supported students in understanding core concepts and assisted in evaluating academic assessments. <br>I value clean design, clear documentation, and practical learning through projects.
 
-**Computer Science Student | Cybersecurity Enthusiast | Teaching Assistant**
 
-I am a motivated Computer Science student with a strong foundation in programming, computer networks, and software engineering principles. I enjoy building structured, problem-oriented projects and continuously improving my technical skills. My primary area of interest is cybersecurity, where I am actively exploring ethical hacking, network security, and vulnerability analysis.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamad-karim-5772472b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamadkarim335@gmail.com) 
 
-Alongside my studies, I have worked as a Teaching Assistant for Digital Logic Design,Assembly Language(COAL) and Linear Algebra where I supported students in understanding core concepts and assisted in evaluating academic assessments. I value clean design, clear documentation, and practical learning through projects.
-
----
-
-## 🔧 Technical Skills
-
-**Programming Languages:**  
-C, C++, Python, JavaScript, Assembly (MASM)
-
-**Computer Science Fundamentals:**  
-Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), Computer Networks, Operating Systems, Softwares Design
-
-**Web & Databases:**  
-HTML, CSS, SQL, MongoDB(Basics) Database Design
-
-**Tools & Platforms:**  
-Git & GitHub, Linux, VS Code, Cisco Packet Tracer
-
-**Cybersecurity Interests:**  
-Network Security Fundamentals, Ethical Hacking, Bug Bounty Concepts, Capture The Flag (CTF)
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hammad Karim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hammad Karim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad Karim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Hammad Karim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Project Highlights
-
-- **Chat-Enabled Online Shopping Store** (Database & Computer Networks)  
-- **Stock Price Predictor** (Python – Intermediate)  
-- **Hostel Management System** (Software Design & Analysis)  
-- **Scrabble & Jumble Words Game** (C)  
-- **Bank Management System** (C++)  
-- **NFA Simulation** (JavaScript)
-
-Each project focuses on applying theoretical concepts to practical problem-solving with proper design and documentation.
-
----
-
-## 📚 Currently Learning
-
-- Advanced Python for cybersecurity applications  
-- Web security and JavaScript-based vulnerabilities  
-- Linux security and privilege escalation techniques  
-- Hands-on labs on Hack The Box and TryHackMe  
-
----
-
-## 🤝 Let's Connect
-
-Feel free to explore my repositories or reach out if you would like to collaborate on academic projects, discuss computer science concepts, or work on cybersecurity-related learning initiatives.
-
----
-
-*Open to internships, learning opportunities, and collaborative projects.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
