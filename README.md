@@ -106,7 +106,7 @@
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamadkarim335.png)](https://tryhackme.com/p/hamadkarim335)
+<a href="https://tryhackme.com/p/hamadkarim335" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/hamadkarim335.png" alt="Your Image Badge" /></a>
 
 > 🔐 Actively solving labs in **Linux Fundamentals · Networking · Privilege Escalation · Web Exploitation · Offensive Security**
 
