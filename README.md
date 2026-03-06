@@ -1,25 +1,134 @@
-# 💫 About Me:
-Hi, I'm Hammad Karim 👋<br>Computer Science Student | Cybersecurity Enthusiast | Teaching Assistant<br>I am a motivated Computer Science student with a strong foundation in programming, computer networks, and software engineering principles.<br>I enjoy building structured, problem-oriented projects and continuously improving my technical skills. My primary area of interest is cybersecurity, where I am actively exploring ethical hacking, network security, and vulnerability analysis.<br>Alongside my studies, I have worked as a Teaching Assistant for Digital Logic Design, Assembly Language(COAL) and Linear Algebra where I supported students in understanding core concepts and assisted in evaluating academic assessments.<br>I value clean design, clear documentation, and practical learning through projects.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamad-karim-5772472b2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamadkarim335@gmail.com) 
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Hammad-karim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hammad-karim&theme=dark&hide_border=false)<br/>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:60a5fa&height=200&section=header&text=Hamad%20Karim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Teaching%20Assistant&descAlignY=58&descSize=18&descColor=bfdbfe&animation=fadeIn" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-karim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Systems+%26+Low-Level+Programmer+%E2%9A%99%EF%B8%8F;Teaching+Assistant+%F0%9F%93%9A;Always+Learning%2C+Always+Breaking+Things+%F0%9F%94%93)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=Hammad-karim&color=1d4ed8&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Hammad-karim?style=for-the-badge&color=1d4ed8&labelColor=0f172a&label=FOLLOWERS)](https://github.com/Hammad-karim)
 
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Hammad-karim&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 **CS Undergraduate** at FAST-NUCES Karachi *(2023 – 2027)*
+- 🌍 Based in **Karachi, Pakistan**
+- 🛡️ Passionate about **Cybersecurity, Ethical Hacking & Penetration Testing**
+- 👨‍🏫 **Teaching Assistant** for Digital Logic Design, COAL & Linear Algebra
+- ⚙️ Strong foundation in **C, C++, Assembly, Python & Bash**
+- 🔐 Actively practicing **Offensive Security** on TryHackMe
+- 🗄️ Experienced with **SQL, MongoDB, PostgreSQL & Supabase**
+- 📐 Familiar with **UML, Software Modeling & System Design**
+- 💡 Motto: *"Learn by doing. Break things. Build better."*
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamad-karim-5772472b2/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadkarim335@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hamadkarim335)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hammad-karim)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Hosting & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hammad-karim&theme=tokyonight" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hammad-karim&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hammad-karim&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hammad-karim&theme=tokyonight" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-karim&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🛡️ TryHackMe
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamadkarim335.png)](https://tryhackme.com/p/hamadkarim335)
+
+> 🔐 Actively solving labs in **Linux Fundamentals · Networking · Privilege Escalation · Web Exploitation · Offensive Security**
+
+</div>
+
+---
+
+## 🎓 Education & Experience
+
+```
+🏫  BS Computer Science — FAST-NUCES Karachi                        2023 – 2027
+    Relevant: Computer Networks · OS · DSA · DBMS · COAL · Algorithms
+
+👨‍🏫  Teaching Assistant — FAST-NUCES Karachi                         2023 – Present
+    Courses: Digital Logic Design (DLD) · COAL · Linear Algebra
+    Conducted tutorials, evaluated assessments, mentored students
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:1d4ed8&height=120&section=footer&animation=fadeIn" />
+
+</div>
