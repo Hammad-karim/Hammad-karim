@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:0d1117&height=3&section=header" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:008f11,100:0d1117&height=220&section=header&text=HAMAD%20KARIM&fontSize=72&fontColor=00ff41&fontAlignY=40&desc=%3E%20Penetration%20Tester%20%7C%20Offensive%20Security%20%7C%20Network%20Defense&descAlignY=62&descSize=17&descColor=39ff14&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,40:003300,100:00ff41&height=210&section=header&text=HAMAD%20KARIM&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Penetration%20Tester%20%7C%20Offensive%20Security%20%7C%20Network%20Defense&descAlignY=58&descSize=17&descColor=b0ffb0&animation=fadeIn" />
 
 <br/>
 
@@ -41,7 +39,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=1" />
 
-## <img src="https://img.icons8.com/nolan/30/security-shield-green.png"/> &nbsp;Security Domains
+## 🛡️ &nbsp;Security Domains
 
 <div align="center">
 
@@ -117,7 +115,7 @@ Memory & Processes
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=1" />
 
-## <img src="https://img.icons8.com/nolan/30/hacker.png"/> &nbsp;TryHackMe
+## 🔴 &nbsp;TryHackMe
 
 <div align="center">
 
@@ -265,4 +263,4 @@ Memory & Processes
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:008f11,100:00ff41&height=120&section=footer&animation=fadeIn&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:00ff41,40:006600,100:0d1117&height=130&section=footer&animation=fadeIn&reversal=true" />
