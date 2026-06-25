@@ -173,7 +173,7 @@ Bash Scripting
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=3F51B5&height=1" />
 
 ## 🔵 &nbsp;Featured Project — SOCShield
-
+<div align="center">
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
@@ -190,6 +190,7 @@ Bash Scripting
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
+</div>
 
 <br/>
 
@@ -220,6 +221,7 @@ Bash Scripting
 
 ## 🎓 &nbsp;Education & Experience
 
+<div align="center">
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
@@ -251,6 +253,7 @@ Bash Scripting
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
+</div>
 
 <br/>
 
